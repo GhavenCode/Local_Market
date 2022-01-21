@@ -1,0 +1,12 @@
+<resources>
+
+    <style name="Widget.Theme.NotifyMe.ActionBar.Fullscreen" parent="Widget.AppCompat.ActionBar">
+        <item name="android:background">@color/teal_200</item>
+    </style>
+
+    <style name="Widget.Theme.NotifyMe.ButtonBar.Fullscreen" parent="">
+        <item name="android:background">@color/teal_200</item>
+        <item name="android:buttonBarStyle">?android:attr/buttonBarStyle</item>
+        <item name="android:statusBarColor">@color/teal_200</item>
+    </style>
+</resources>
